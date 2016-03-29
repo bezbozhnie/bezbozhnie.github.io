@@ -1,0 +1,40 @@
+/*GOOGLE FONTS*/
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700,600);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,300);
+
+/*STYLES*/
+
+*, html, body{
+	margin: 0;
+	padding: 0;
+	font-family: "Raleway";
+}
+
+
+.img__item img{
+	width: 95%;
+}
+
+
+h3{
+	text-transform: uppercase;
+	font-size: 30px;
+	color: purple;
+	font-weight:900;
+}
+
+.web_design{
+	background: #64b5da;
+}
+.design_book h3{
+	font-family: 'Lato';
+}
+.design_book{
+	background: #efd7f3;
+}
+.other{
+	background: #a1f097;
+}
+.row{
+	margin: 20px 0px;
+}
